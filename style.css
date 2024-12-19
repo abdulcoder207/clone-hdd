@@ -75,7 +75,7 @@ body {
 
 .persiapan>.gambar1 .alat {
     margin-right: 50px;
-    mix-blend-mode: multiply;
+    mix-blend-mode: normal;
 }
 
 .persiapan>.gambar1 img {
