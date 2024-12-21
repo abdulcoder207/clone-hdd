@@ -43,7 +43,25 @@ body {
     font-family: 'Quick Fuse';
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 480px) {
+    .header{
+        font-size: 50%;
+    }
+
+    .content-container{
+        font-size: 70%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .header{
+        font-size: 50%;
+    }
+
+    .content-container{
+        font-size: 70%;
+    }
+}
+@media screen and (max-width: 645px) {
     .header{
         font-size: 50%;
     }
@@ -102,7 +120,7 @@ body {
     border-top: 2px solid gray;
 }
 
-.proses>li {
+.proses>ul li {
     text-align: left;
     list-style: lower;
     margin: 30px;
