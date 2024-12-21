@@ -63,8 +63,8 @@ body {
 
 .content>img {
     box-shadow: 5px 10px 5px black;
-    border-radius: 30%;
-    width: 60%;
+    border-radius: 50%;
+    width: 40%;
     margin: 20px auto;
 }
 
